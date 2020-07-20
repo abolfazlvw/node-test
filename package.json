@@ -4,12 +4,13 @@
   "description": "My 1st NodeJS project",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
   },
   "author": "DevKing",
   "license": "ISC",
   "dependencies": {
-    "express": "latest",
-    "nodemon": "latest"
+    "express": "4.17.1",
+    "nodemon": "2.0.4"
   }
 }
