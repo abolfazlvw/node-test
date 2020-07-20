@@ -1,0 +1,15 @@
+{
+  "name": "first-nodejs-project",
+  "version": "0.0.1",
+  "description": "My 1st NodeJS project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "DevKing",
+  "license": "ISC",
+  "dependencies": {
+    "express": "latest",
+    "nodemon": "latest"
+  }
+}
